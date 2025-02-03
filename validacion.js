@@ -15,4 +15,4 @@ function validatePassword(password) {
     );
 }
 
-module.exports = validatePassword;
+module.exports = {validatePassword};
