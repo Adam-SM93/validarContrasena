@@ -1,4 +1,4 @@
-const {validatePassword} = require('./validacion.js');
+const {validatePassword} = require('./validacion');
 
 
 test('Contraseña válida', () => {
